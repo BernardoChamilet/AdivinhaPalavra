@@ -1,0 +1,1 @@
+cadeira;mesa;computador;teclado;mouse;caderno;mochila;caneta
